@@ -1,0 +1,3 @@
+streamlit
+routeros_api
+google-generativeai
